@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+src/sample_library/__init__.py
+src/sample_library/main.py
+src/sample_library.egg-info/PKG-INFO
+src/sample_library.egg-info/SOURCES.txt
+src/sample_library.egg-info/dependency_links.txt
+src/sample_library.egg-info/requires.txt
+src/sample_library.egg-info/top_level.txt
